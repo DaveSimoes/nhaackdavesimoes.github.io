@@ -19,7 +19,7 @@ The website, Nhaack Restaurant is divided into the following sections:
 ## Setup/Installation Requirements
 
 To view the website, 
-* click [Nhaac Website](ttps://davesimoes.github.io/nhaackdavesimoes.github.io//)
+* click [Nhaac Website](https://davesimoes.github.io/nhaackdavesimoes.github.io//)
 
 
 ## Built With
