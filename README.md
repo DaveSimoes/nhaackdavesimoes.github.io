@@ -40,7 +40,10 @@ To view the website,
 
 ![maispedidos](https://user-images.githubusercontent.com/109705197/182737353-a5e4e3ea-ee6c-4a4c-8365-0d669fc5fa34.jpg)
 
-![gratiserapido](https://user-images.githubusercontent.com/109705197/182759368-9661d063-d46d-44ab-b4bc-878e08ad29b1.jpg)
+![pedidos](https://user-images.githubusercontent.com/109705197/182759482-09c53314-dd36-42b1-bab2-6019c58115fb.jpg)
+
+
+
 
 
 
